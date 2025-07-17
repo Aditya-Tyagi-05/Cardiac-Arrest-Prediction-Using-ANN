@@ -118,25 +118,6 @@ Cardiac arrest is one of the leading causes of death globally. Early prediction 
 
 ---
 
-## 📈 Results
-
-| Metric       | Value      |
-|--------------|------------|
-| Accuracy     | XX%        |
-| Precision    | XX%        |
-| Recall       | XX%        |
-| F1-Score     | XX%        |
-| ROC AUC      | XX         |
-
-> *(Update the values after evaluating your model)*
-
----
-
-## 📷 Screenshots
-
-> *Add screenshots of your Streamlit UI or performance graphs here*
-
----
 
 ## 🤝 Contributing
 
@@ -154,7 +135,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 **Aditya Tyagi**  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)
+📧 Email: supertgoofficial@gmail.com  
+🔗 LinkedIn: (https://linkedin.com/in/aditya-tyagi-18b696327)
 
 ---
