@@ -35,14 +35,12 @@ Cardiac arrest is one of the leading causes of death globally. Early prediction 
 - NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
-- Streamlit (for GUI, if implemented)
 
 ---
 
 ## ✅ Features
 
 - Predicts cardiac arrest risk using ANN
-- User-friendly interface (if using Streamlit)
 - Data preprocessing and feature engineering
 - Accuracy and performance evaluation
 - Visualizations of model performance
@@ -51,7 +49,7 @@ Cardiac arrest is one of the leading causes of death globally. Early prediction 
 
 ## 📊 Dataset
 
-- **Source**: [Provide link here, e.g., UCI Repository or Kaggle]
+- **Source**: Kaggle
 - **Features Used**:
   - Age
   - Gender
